@@ -1,0 +1,7 @@
+train: ../pothole_dataset/images/train 
+val: ../pothole_dataset/images/valid
+test: ../pothole_dataset/images/test
+
+# Classes
+nc: 1  # number of classes
+names: ['pothole']  # class names
